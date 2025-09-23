@@ -1,51 +1,64 @@
-# 👨‍💻 Surendra Raj – Full Stack PHP Laravel Developer
+# 👨‍💻 Surendra Rajpoot – Full Stack PHP Laravel Developer
 
-Hi, I'm **Surendra Raj** – a passionate Laravel (and full stack) developer with experience in building robust backend APIs, real-time systems, and full-stack applications. I aim to write clean, maintainable, and secure code, and have worked with integrations to various third‑party services.
+Hi, I'm **Surendra Rajpoot** – a passionate Laravel (and full stack) developer with hands-on experience in building secure APIs, real-time systems, and scalable web applications. I follow best practices to deliver clean, maintainable, and high-performing code.
+
+**Languages:** Hindi 🇮🇳, English 🌐
 
 ---
 
 ## 🔧 Tech Stack
 
 **Languages:**
-PHP, Node.js, JavaScript, jQuery, HTML, CSS
+PHP, JavaScript, jQuery, HTML, CSS
 
 **Frameworks & Libraries:**
-Laravel (v9–12),  Livewire, Bootstrap
+Laravel (v10–12), Livewire (selective use), Bootstrap
 
 **Databases:**
-MySQL, MongoDB, Eloquent ORM
+MySQL, SQL Server, Eloquent ORM
 
-**Tools & Technologies:**
-Postman, JWT Authentication, REST APIs, Git
+**Tools & Utilities:**
+Postman, Git, FileZilla, JWT Auth, REST APIs
 
 **Deployment & DevOps:**
-Apache, Nginx, Google Cloud VM
+Apache, Nginx, Google Cloud VM, Shared Hosting (cPanel)
 
-**Other Skills:**
-Laravel Queues, Firebase Notifications, Jobs, Validation, File Uploads, Excel Import/Export, etc.
+**Additional Skills:**
+Queues, Scheduler, Firebase Notifications, Validation, File Uploads, Excel Import/Export
 
 ---
+## 🚀 Featured Projects & Laravel Expertise
 
-## 🚀 Featured Projects
+- **🔐 Secure API Development:** Built RESTful APIs with **Laravel Sanctum** & **Passport**, integrated third-party services (payment, SMS, CRM).
+- **📡 Real-Time Features:** Implemented **chat** and **notifications** with **Laravel Echo**, **Pusher**, and **WebSockets**.
+- **🧠 Task Handling & Automation:** Managed jobs & scheduled tasks with **Laravel Queues** and **Scheduler** (Redis, DB).
+- **🔒 Role-Based Authorization:** Developed **middleware**, **Gates**, & **Policies** for secure access control.
+- **🧩 Frontend Architecture:** Created reusable **Blade components**; used **Livewire** for dynamic UI when needed.
+- **🧪 Testing & Quality:** Used **PHPUnit** and **Laravel Dusk** for automated testing and high-quality code.
+- **🌐 Localization:** Implemented multi-language support (Hindi & English) with **Laravel’s localization**.
+
+---
 
 ## 📦 Admin Panels & Internal Tools
 
-- Livewire‑based request management dashboard
-- AMC service scheduler with auto‑generated service dates
-- Bank data uploader using reusable Blade components
-- Other internal tools & utilities
+- **Request Management Dashboard**
+- **AMC Service Scheduler** with auto-generated dates
+- **Bank Data Uploader** for processing large datasets
+- **Internal Admin Tools** to optimize workflows
 
 ---
 
-## 📱 Third‑Party Integrations
+## 🔌 Third-Party Integrations
 
-- ✅ PhonePe OAuth flow
-- ✅ SMS Gateways (e.g. SMSU etc.)
-- ✅ HMAC‑secured APIs (like APICLUB)
+- ✅ **PhonePe OAuth 2.0 Flow**
+- ✅ **SMS Gateways** (e.g., SMSU)
+- ✅ **HMAC-secured APIs** (e.g., APICLUB)
+- ✅ **Custom External APIs** for large dataset handling
+
 
 ---
 
-## 🏆 GitHub Stats & Languages
+## 🏆 GitHub Stats
 
 ![Surendra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=surendra-raj&show_icons=true&theme=dracula)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=surendra-raj&layout=compact&theme=dracula)
@@ -56,8 +69,8 @@ Laravel Queues, Firebase Notifications, Jobs, Validation, File Uploads, Excel Im
 
 - 📧 Email: **surendra@notiontech.co.in**
 - 🔗 GitHub: [github.com/surendra-raj](https://github.com/surendra-raj)
-- 📌 Based in: India 🇮🇳
+- 📌 Location: India 🇮🇳
 
 ---
 
-> 💡 *“Clean code, good architecture, and secure designs are what I strive for in every project.”*
+> 💡 *"Clean code, scalable architecture, and secure systems – these are my cornerstones in every project I build."*
