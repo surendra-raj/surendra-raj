@@ -56,12 +56,6 @@ Queues, Scheduler, Firebase Notifications, Validation, File Uploads, Excel Impor
 - ✅ **Custom External APIs** for large dataset handling
 
 
----
-
-## 🏆 GitHub Stats
-
-![Surendra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=surendra-raj&show_icons=true&theme=dracula)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=surendra-raj&layout=compact&theme=dracula)
 
 ---
 
